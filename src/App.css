@@ -1,0 +1,17 @@
+.navbar-nav a {
+  font-size: 18px;
+}
+.navbar-nav {
+  gap: 15px;
+}
+.buttons .fa {
+  border: 1px solid black;
+  padding: 6px;
+  border-radius: 5px;
+}
+.buttons .fa:hover {
+  background-color: black;
+  color: white;
+  transition-property: color;
+  transition-duration: 1s;
+}
